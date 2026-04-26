@@ -1,0 +1,6 @@
+{
+  "name": "jarvis-sandbox",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
